@@ -1,5 +1,20 @@
 <p align="center">
   <a href="https://github.com/blessamdev">
+    <picture>
+      <!-- Shown when GitHub is in Dark Mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+      
+      <!-- Shown when GitHub is in Light Mode -->
+      <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+      
+      <!-- Fallback image -->
+      <img alt="blessamdev's GitHub profile" src="dark_mode.svg" width="100%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/blessamdev">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20Blessam%20%F0%9F%92%BB%20Computer%20Science%20Student%20%7C%20C%20Programmer%20%7C%20Future%20Software%20Engineer%20%F0%9F%9A%80%20Building%2C%20learning%20%26%20documenting%20my%20journey%20one%20project%20at%20a%20time." alt="👋 Hi, I&#39;m Blessam 💻 Computer Science Student | C Programmer | Future Software Engineer 🚀 Building, learning &amp; documenting my journey one project at a time." />
   </a>
 </p>
