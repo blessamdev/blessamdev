@@ -14,18 +14,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/blessamdev">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20Blessam%20%F0%9F%92%BB%20Computer%20Science%20Student%20%7C%20C%20Programmer%20%7C%20Future%20Software%20Engineer%20%F0%9F%9A%80%20Building%2C%20learning%20%26%20documenting%20my%20journey%20one%20project%20at%20a%20time." alt="👋 Hi, I&#39;m Blessam 💻 Computer Science Student | C Programmer | Future Software Engineer 🚀 Building, learning &amp; documenting my journey one project at a time." />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=700&height=44&lines=Computer%20Science%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator;Learning.%20Building.%20Becoming.%20%F0%9F%9A%80" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Computer Science student passionate about coding,problem-solving and building useful things. Currently learning,experimenting and documenting my journey one project at a time. 🛫
+Computer Science student passionate about coding, problem-solving and building useful things. Currently learning, experimenting and documenting my journey one project at a time. 🛫
 
 🔭 &nbsp;I'm currently working on **Building my C programming foundation and beginner projects**  
 🌱 &nbsp;I'm currently learning **C Programming**  
@@ -72,6 +66,3 @@ Computer Science student passionate about coding,problem-solving and building us
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/blessamdev">blessamdev</a></i></p>
-
-
-
