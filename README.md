@@ -1,17 +1,8 @@
-<p align="center">
-  <a href="https://github.com/blessamdev">
-    <picture>
-      <!-- Shown when GitHub is in Dark Mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-      
-      <!-- Shown when GitHub is in Light Mode -->
-      <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-      
-      <!-- Fallback image -->
-      <img alt="blessamdev's GitHub profile" src="dark_mode.svg" width="100%" />
-    </picture>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="blessamdev's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=700&height=44&lines=Computer%20Science%20Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator;Learning.%20Building.%20Becoming.%20%F0%9F%9A%80" alt="Typing headlines" />
