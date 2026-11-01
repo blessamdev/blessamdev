@@ -5,61 +5,60 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Computer+Science+Student.+Builder.+Creator.;Learning.+Building.+Becoming." alt="Computer Science Student. Builder. Creator. Learning. Building. Becoming." />
+  <a href="https://github.com/blessamdev">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Blessam!" alt="Hello! I&#39;m Blessam!" />
+  </a>
 </p>
-
----
-
-## About
-
-Computer Science student at Zetech University, Kenya, passionate about coding, problem-solving and building useful things. I'm learning, experimenting and documenting my journey one project at a time.
-
-| | |
-| --- | --- |
-| **Working on** | Building my C programming skills and developing practical projects |
-| **Learning** | C, Python, data structures and algorithms |
-| **Open to** | Collaborating on beginner-friendly coding projects and open-source contributions |
-| **Looking for help with** | Writing clean, efficient code and improving my problem-solving |
-| **Ask me about** | My Computer Science journey, C programming, Python and beginner projects |
-| **Pronouns** | he/him |
-
-> Every bug I fix is another lesson learned on my journey to becoming a software developer.
-
-## Featured Projects
-
-| Project | What it is |
-| --- | --- |
-| **C Programming Journey** | Learning C through practical projects |
-| **Python Learning Journey** | Building Python skills through hands-on practice |
-| **Structured Programming & Algorithms** | Developing problem-solving and logical thinking skills |
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-0F172A?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
-  <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=vscodium&logoColor=007ACC" alt="VS Code" />
-</p>
-
-## GitHub Stats
-
+ 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=blessamdev&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=blessamdev&show_icons=true&theme=default&title_color=1a7f37&icon_color=1a7f37&hide_border=true&bg_color=00000000&count_private=true">
-    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=blessamdev&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=blessamdev&layout=compact&theme=tokyonight&title_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=blessamdev&layout=compact&theme=default&title_color=1a7f37&hide_border=true&bg_color=00000000&langs_count=8">
-    <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=blessamdev&layout=compact&theme=tokyonight&title_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=670&height=44&lines=Computer%20Science%20Student.%20Builder.%20Creator;Learning.Building.Becoming.%E2%9C%88%F0%9F%9B%AB" alt="Typing headlines" />
+</p>
+ 
+### 🚀 About Me
+ 
+Computer Science student passionate about coding, problem-solving and building useful things. Currently learning, experimenting and documenting my journey one project at a time. 🛫
+ 
+🔭 &nbsp;I'm currently working on **building my C programming skills and developing practical projects** 
+🌱 &nbsp;I'm currently learning **C, Python, data structures, and algorithms** 
+👯 &nbsp;I'm looking to collaborate on **beginner-friendly coding projects and open-source contributions** 
+🤔 &nbsp;I'm looking for help with **writing clean, efficient code and improving my problem-solving skills** 
+💬 &nbsp;Ask me about **my Computer Science journey, C programming, Python, and beginner projects** 
+😄 &nbsp;Pronouns: **he/him** 
+⚡ &nbsp;Fun fact: **Every bug I fix is another lesson learned on my journey to becoming a software developer.**
+ 
+### 🛠️ Tech Stack
+ 
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</p>
+ 
+### 🔗 Connect With Me
+ 
+<p align="left">
+  <a href="https://instagram.com/blessam_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@blessam._"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:blessamuel999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+ 
+### 📊 GitHub Stats
+ 
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=blessamdev&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=blessamdev&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+ 
+### 📈 Contribution Graph
+ 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=blessamdev&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-## Contribution Snake
+### 🐍 Contribution Snake
 
 <!--
   The snake images only appear after the one-time setup:
@@ -76,25 +75,12 @@ Computer Science student at Zetech University, Kenya, passionate about coding, p
     <img src="https://raw.githubusercontent.com/blessamdev/github-snake/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
   </picture>
 </p>
-
-## Connect
-
-<p>
-  <a href="https://github.com/blessamdev"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/samuel-owino"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/blessam_"><img src="https://img.shields.io/badge/Instagram-0F172A?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@blessam._"><img src="https://img.shields.io/badge/TikTok-0F172A?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:blessamuel999@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
-
----
-
+ 
+### 💭 Dev Quote
+ 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
-<p align="center"><sub>Learning. Building. Becoming. &nbsp;·&nbsp; <a href="https://github.com/blessamdev">blessamdev</a></sub></p>
+ 
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/blessamdev">blessamdev</a></i></p>
