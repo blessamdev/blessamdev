@@ -117,6 +117,23 @@ Computer Science student passionate about coding, problem-solving and building u
 
 ---
 
+### 🐱 Cat-Man
+
+<!--
+  Made by the same workflow as the snake (see snake.yml + catman.py in the github-snake repo).
+  The images appear after the workflow has run once.
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blessamdev/github-snake/output/catman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blessamdev/github-snake/output/catman-light.svg">
+    <img src="https://raw.githubusercontent.com/blessamdev/github-snake/output/catman-light.svg" alt="Cat-Man: a cat eats my GitHub contributions while chasing ghosts" width="100%">
+  </picture>
+</p>
+
+---
+
 ### 💭 Dev Quote
 
 <p align="center">
